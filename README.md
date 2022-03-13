@@ -12,6 +12,9 @@ Clone this repo and install dependencies
 ```
 npm install
 ```
-```npm run dev```
+and
+```
+npm run dev
+```
 And then you're good to go!
 
